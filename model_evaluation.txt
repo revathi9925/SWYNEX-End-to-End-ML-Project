@@ -1,0 +1,17 @@
+TITANIC SURVIVAL PREDICTION - MODEL EVALUATION
+==================================================
+Accuracy: 81.01%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.92      0.86       110
+           1       0.83      0.64      0.72        69
+
+    accuracy                           0.81       179
+   macro avg       0.82      0.78      0.79       179
+weighted avg       0.81      0.81      0.80       179
+
+Confusion Matrix:
+[[101   9]
+ [ 25  44]]
